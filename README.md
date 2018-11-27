@@ -34,7 +34,7 @@ Android export jar file let unity loading
 
 Bluetooth for android connect to oCare100_MBT
 
-###AndroidManifest.xml<br/>
+### AndroidManifest.xml<br/>
 
 Permission setting<br/>
 
