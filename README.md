@@ -32,7 +32,7 @@ Android export jar file let unity loading
 ## Android
 ### androidbleconnect.java<br/>
 
-Bluetooth for android connect to oCare100_MBT
+Bluetooth for android connect to ble device
 
 ### AndroidManifest.xml<br/>
 
